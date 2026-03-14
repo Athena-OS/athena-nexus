@@ -89,9 +89,11 @@ Athena Nexus is a Tauri desktop application (Rust backend + React frontend) that
 
 - **Runtime**: Docker Engine ≥ v24 **or** Podman ≥ v4 with socket enabled
 - **Compose**: `docker compose` plugin **or** `podman-compose`
-- **webkit2gtk**: ≥ 4.1
-- **npm**: ≥ 11 (for development builds)
-- **Rust**: ≥ 1.77 (for development builds)
+- **webkit2gtk-4.1**
+- **cmake** (for development builds)
+- **npm** (for development builds)
+- **pkg-config** (for development builds)
+- **Rust** (for development builds)
 
 ### Enable Docker socket
 
