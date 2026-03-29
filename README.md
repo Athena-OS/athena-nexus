@@ -47,6 +47,7 @@ Athena Nexus is a Tauri desktop application (Rust backend + React frontend) that
 
 ### Network Topology
 - Visual graph of running containers and their network connections (D3-powered)
+  ![Network Topology](extra/network-topology.png)
 
 ### User-Defined Tools
 - Add custom tools (image-based or compose-based) alongside built-in registry tools
